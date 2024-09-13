@@ -2,16 +2,22 @@ h1 {
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
     filter: grayscale(0.5);
+    text-align: center;
+
+    background-image:url("Image/banniere.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 h4 {
     color: red;
-}
+   }
 
 img {
     max-height: 256px;
     max-width: 256px;
-    
     padding-right: 16px;
     padding-left: 16px;
     }
