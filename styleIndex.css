@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    text-shadow: 1px 1px 2px white, 0 0 1em yellow, 0 0 0.2em green;
+    filter: grayscale(0.5);
+    text-align: center;
+
+
+    background-color: khaki;
+    background-position: center;
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+   }
+
+h4 {
+
+    color: beige;
+    
+   }
+img {
+
+    max-height: 1000px;
+    max-width: 1000px;
+    padding-right: 20px;
+
+    }

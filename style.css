@@ -12,7 +12,9 @@ h1  {
     }
 
 h4  {
+    padding-right: 16px;
     color: red;
+    padding-left: 16px;
     }
 
 img {
@@ -25,3 +27,4 @@ img {
 strong  {
     color: grey;
         }
+        
